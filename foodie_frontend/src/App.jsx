@@ -1,10 +1,10 @@
+import { Button } from '@mui/material'
 import './App.css'
-import Navbar from './components/Navbar'
 
 function App() {
   return (
    <>
-   <Navbar/>
+   <Button>Contained</Button>
    </>
   )
 }
